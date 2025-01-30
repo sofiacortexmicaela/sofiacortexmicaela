@@ -2,27 +2,7 @@
 
 <html>
 <head>
-    <title>Ejemplo de CSS Interno</title>
-    <!-- Aquí es donde colocas tu CSS interno -->
-    <style>
-        body {
-            background-color: lightblue; /* Cambia el color de fondo del cuerpo de la página */
-        }
-
-        h1 {
-            color: navy; /* Cambia el color del texto del encabezado h1 */
-            margin-left: 20px; /* Agrega un margen a la izquierda del encabezado h1 */
-        }
-
-        p {
-            font-size: 16px; /* Cambia el tamaño de la fuente del párrafo */
-            color: darkblue; /* Cambia el color del texto del párrafo */
-        }
-    </style>
-</head>
-<body>
-    <h1>¡Hola, Mundo!</h1>
-    <p>Este es un ejemplo de CSS interno.</p>
+ 
 </body>
 </html>
 
