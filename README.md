@@ -8,13 +8,9 @@
 
 <h1>Hola, soy Sofia!</h1>
 
-# Mi Proyecto
+![Descripción de la imagen](https://github.com/sofiacortexmicaela/sofiacortexmicaela/blob/main/gitdrawio.png?raw=true)
 
 ## Descripción
-
-Aquí está la imagen de mi proyecto:
-
-![Descripción de la imagen](https://github.com/sofiacortexmicaela/sofiacortexmicaela/blob/main/gitdrawio.png?raw=true)
 
 ## Cómo usarlo 
 
