@@ -17,6 +17,6 @@
     <li>Python</li>
 </ul>
 
-<img src="https://via.placeholder.com/150" alt="Imagen de ejemplo">
+<img src="C:\Users\sofil\Downloads\foto git.drawio.svg" alt="Imagen de ejemplo">
 
 <!-- Puedes añadir más HTML y CSS para personalizar aún más tu perfil -->
