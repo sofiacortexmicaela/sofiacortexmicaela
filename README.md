@@ -8,7 +8,7 @@
 
 <h1>Hola, soy Sofia!</h1>
 
-![Descripción de la imagen](https://github.com/sofiacortexmicaela/sofiacortexmicaela/blob/main/gitdrawio.png?raw=true)
+![Descripción de la imagen](https://github.com/sofiacortexmicaela/sofiacortexmicaela/blob/main/otra.drawio.png?raw=true)
 
 ## Descripción
 
@@ -25,7 +25,7 @@
     <li>Python</li>
 </ul>
 
-![Descripción de la imagen]([images/gitdrawlio.jpg](https://github.com/sofiacortexmicaela/sofiacortexmicaela/blob/main/gitdrawio.png)) 
+![Descripción de la imagen](https://github.com/sofiacortexmicaela/sofiacortexmicaela/blob/main/otra.drawio.png?raw=true) 
 
 <img src="foto git.drawlio" alt="Imagen de ejemplo">
 
