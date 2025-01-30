@@ -7,6 +7,18 @@
 </html>
 
 <h1>Hola, soy Sofia!</h1>
+
+# Mi Proyecto
+
+## Descripción
+
+Aquí está la imagen de mi proyecto:
+
+![Descripción de la imagen]([images/gitdrawlio.jpg](https://github.com/sofiacortexmicaela/sofiacortexmicaela/blob/main/gitdrawio.png))
+
+## Cómo usarlo 
+
+
 <p>Bienvenidos a mi perfil de GitHub. Aquí encontrarán información sobre mis proyectos y más.</p>
 
 <p>Me encanta trabajar con:</p>
@@ -17,7 +29,7 @@
     <li>Python</li>
 </ul>
 
-![Descripción de la imagen](images/gitdrawlio.jpg) 
+![Descripción de la imagen]([images/gitdrawlio.jpg](https://github.com/sofiacortexmicaela/sofiacortexmicaela/blob/main/gitdrawio.png)) 
 
 <img src="foto git.drawlio" alt="Imagen de ejemplo">
 
