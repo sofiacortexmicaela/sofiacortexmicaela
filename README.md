@@ -25,8 +25,4 @@
     <li>Python</li>
 </ul>
 
-![Descripción de la imagen](https://github.com/sofiacortexmicaela/sofiacortexmicaela/blob/main/otra.drawio.png?raw=true) 
 
-<img src="foto git.drawlio" alt="Imagen de ejemplo">
-
-<!-- Puedes añadir más HTML y CSS para personalizar aún más tu perfil -->
