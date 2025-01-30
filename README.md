@@ -17,6 +17,7 @@
     <li>Python</li>
 </ul>
 
+![Descripción de la imagen](images/gitdrawlio.jpg) 
 
 <img src="foto git.drawlio" alt="Imagen de ejemplo">
 
