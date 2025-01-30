@@ -17,6 +17,7 @@
     <li>Python</li>
 </ul>
 
-<img src="C:\Users\sofil\Downloads\foto git.drawio.svg" alt="Imagen de ejemplo">
+
+<img src="foto git.drawlio" alt="Imagen de ejemplo">
 
 <!-- Puedes añadir más HTML y CSS para personalizar aún más tu perfil -->
