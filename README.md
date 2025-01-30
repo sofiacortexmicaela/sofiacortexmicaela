@@ -14,7 +14,7 @@
 
 Aquí está la imagen de mi proyecto:
 
-![Descripción de la imagen]([images/gitdrawlio.jpg](https://github.com/sofiacortexmicaela/sofiacortexmicaela/blob/main/gitdrawio.png))
+![Descripción de la imagen](https://github.com/sofiacortexmicaela/sofiacortexmicaela/blob/main/gitdrawio.png?raw=true)
 
 ## Cómo usarlo 
 
