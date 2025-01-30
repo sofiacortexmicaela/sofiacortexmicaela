@@ -6,14 +6,9 @@
 </body>
 </html>
 
-<h1>Hola, soy Sofia!</h1>
+
 
 ![Descripción de la imagen](https://github.com/sofiacortexmicaela/sofiacortexmicaela/blob/main/otra.drawio.png?raw=true)
-
-## Descripción
-
-## Cómo usarlo 
-
 
 <p>Bienvenidos a mi perfil de GitHub. Aquí encontrarán información sobre mis proyectos y más.</p>
 
