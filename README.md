@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bienvenidos a mi perfil!
 
-<!--
-**sofiacortexmicaela/sofiacortexmicaela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+/* Puedes añadir tu CSS aquí */
+h1 {
+    color: #ff6347;
+}
+</style>
 
-Here are some ideas to get you started:
+<h1>Hola, soy Sofia!</h1>
+<p>Bienvenidos a mi perfil de GitHub. Aquí encontrarán información sobre mis proyectos y más.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Me encanta trabajar con:</p>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Python</li>
+</ul>
+
+<img src="https://via.placeholder.com/150" alt="Imagen de ejemplo">
+
+<!-- Puedes añadir más HTML y CSS para personalizar aún más tu perfil -->
